@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "post-install-cmd": [
+            "bower install",
+            "gulp"
+        ],
+        "post-update-cmd": [
+            "bower install",
+            "gulp"
+        ]
+    }
+}
