@@ -1,12 +1,8 @@
 {
     "name": "testing-composer",
     "version": "1.1.1",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/renataedit/testingComposer"
-    },
     "dependencies": {
-        "bower": "https://github.com/bower/bower/master",
-        "gulp": "https://github.com/gulpjs/gulp/master"
+        "bower": "https://github.com/bower/bower",
+        "gulp": "https://github.com/gulpjs/gulp"
     }
 }
